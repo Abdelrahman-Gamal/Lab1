@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lesson1</string>
+    <string name="welcome">Welcome</string>
+    <string name="skip_text">Skip</string>
+    <string name="lets_go">Let\'s Go</string>
+    <string name="acc">Do You Have Account?</string>
+    <string name="sign_in">Sign in Now!</string>
+
+</resources>

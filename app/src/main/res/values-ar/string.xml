@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">الدرس الاول</string>
+    <string name="welcome">مرحبا</string>
+    <string name="skip_text">تخطي</string>
+    <string name="lets_go">اضغط للدخول</string>
+    <string name="acc"> هل لديك حساب ؟</string>
+    <string name="sign_in">قم بالتسجيل الان</string>
+
+</resources>
